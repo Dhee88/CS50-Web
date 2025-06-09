@@ -8,12 +8,12 @@ This repository contains my coursework, notes, and projects for **CS50's Web Pro
 ## 📚 Course Topics
 
 - [x] Week 0: HTML, Git
-- [ ] Week 1: CSS
-- [ ] Week 2: Flask
-- [ ] Week 3: SQL, Models
-- [ ] Week 4: JavaScript
-- [ ] Week 5: Testing, CI/CD
-- [ ] Week 6: User Interfaces
+- [x] Week 1: CSS
+- [x] Week 2: Flask
+- [x] Week 3: SQL, Models
+- [x] Week 4: JavaScript
+- [x] Week 5: Testing, CI/CD
+- [x] Week 6: User Interfaces
 - [ ] Week 7: Final Project
 
 ## 📁 Folder Structure
